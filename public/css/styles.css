@@ -1,0 +1,177 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color:#ffffff;
+}
+
+.fondo{
+    background-color:#EAC926 ;
+    height:150px;
+}
+
+.padre1{
+    display: flex;
+    align-content: flex-start;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.barradenav{
+    font-size: 20px;
+    list-style: none;
+    display: flex;
+    align-content: flex-start;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.titulovisitas{
+    align-items: center;
+}
+
+.visitas{
+    background-color: rgb(240, 245, 250);
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+
+.texto1 {
+    font-size: 16px;
+}
+
+
+    .mcbook{
+        background-color: rgb(255, 255, 255);
+        width: 200px;
+        display: flex;
+        align-content: flex-start;
+        line-height: 0%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        flex-wrap: nowrap;
+        box-shadow: 5px 5px 5px rgb(197, 196, 196);
+        border: 1px #ebebeb;
+   
+    }
+
+    .samsungcel {
+        background-color: rgb(255, 255, 255);
+        width: 200px;
+        display: flex;
+        align-content: flex-start;
+        line-height: 0%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        flex-wrap: nowrap;
+        box-shadow: 5px 5px 5px rgb(197, 196, 196);
+        border: 1px #ebebeb;
+    }
+   
+ 
+    .oferta{
+        background-color: rgb(240, 245, 250);
+        height: 400px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        flex-wrap: wrap;
+
+    }
+
+    .cafetera{
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    display: flex;
+    align-content: flex-start;
+    line-height: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-wrap: nowrap;
+    box-shadow: 5px 5px 5px rgb(197, 196, 196);
+    border: 1px #ebebeb;
+    }
+
+    .smart{
+        background-color: rgb(255, 255, 255);
+        width: 200px;
+        display: flex;
+        align-content: flex-start;
+        line-height: 0%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        flex-wrap: nowrap;
+        box-shadow: 5px 5px 5px rgb(197, 196, 196);
+        border: 1px #ebebeb;
+    }
+
+.piedepagina{
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}    
+.titulofooter{
+    font-size: 20px;
+}
+
+.precio{ font-size: 18px;
+}
+
+.descuento{
+    font-size: 16px;
+}
+.descripcion{
+    font-size: 16px;
+}
+
+.texto{
+    font-size: 12px;
+    text-align: center;
+}
+
+.bloque1{
+    width: 300px;
+    display: flex;
+    align-content: flex-start;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.bloque2{
+    width: 300px;
+    display: flex;
+    align-content: flex-start;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.bloque3{
+    width: 300px;
+    display: flex;
+    align-content: flex-start;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
